@@ -1,7 +1,7 @@
 <p align="center">
 
 <img  alt="image" src="https://github.com/IceFireLabs/.github/assets/34047788/87bed76e-74be-4d46-b40b-3791fc29a788">
-    <b>Projects by IceFireLabs</b>
+    <b>IceFireLabs Ecosystem</b>
 </p>
 
 
