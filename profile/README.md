@@ -1,9 +1,8 @@
 <p align="center">
 
-<img  alt="image" src="https://github.com/IceFireLabs/.github/assets/34047788/87bed76e-74be-4d46-b40b-3791fc29a788">
+<img  alt="image" src="https://github.com/IceFireLabs/.github/assets/34047788/16a39fcb-9fec-4918-9e36-e596ec386b9f">
     <b>IceFireLabs Ecosystem</b>
 </p>
-
 
 IceFireLabs is committed to solving the infrastructure gap in the Web3.0 ecosystem. Currently, many decentralized applications (dapps) overlap in functionality, making it challenging to cultivate a diverse and vibrant multi-track application ecosystem similar to Web2. This is mainly due to the lack of infrastructure products in Web 3.0 that can support dapp development needs across various fields such as storage, computing, security, communication and data retrieval.
 
